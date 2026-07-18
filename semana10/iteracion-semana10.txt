@@ -1,0 +1,14 @@
+Las 2 tareas del backlog que realizaría primero son:
+
+1. Crear el registro de incidencias.
+2. Crear la notificación automática por Telegram.
+
+Son las más importantes porque permiten recibir información de la comunidad y avisar al equipo encargado para iniciar el seguimiento.
+
+Para mí, una tarea está "terminada" cuando cumple con los objetivos definidos y puede ser utilizada correctamente.
+
+Criterios de terminado:
+
+- La funcionalidad funciona correctamente.
+- La tarea fue probada y no presenta errores importantes.
+- El trabajo quedó registrado mediante Git en el repositorio.
